@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# PILARES
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem 3D`
